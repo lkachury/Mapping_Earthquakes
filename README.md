@@ -28,9 +28,9 @@ Using JavaScript, Leaflet.js, and geoJSON data, tectonic plate data was added us
 
 2. The tectonic plate data is added to the overlay object: 
 3. The ```d3.json()``` callback is working and does the following: 
-  - The tectonic plate data is passed to the ```geoJSON()``` layer
-  - The ```geoJSON()``` layer adds color and width to the tectonic plate lines
-  - The tectonic layer group variable is added to the map
+    - The tectonic plate data is passed to the ```geoJSON()``` layer
+    - The ```geoJSON()``` layer adds color and width to the tectonic plate lines
+    - The tectonic layer group variable is added to the map
 4. The earthquake data and tectonic plate data displayed on the map when the page loads:
 
 
@@ -40,10 +40,10 @@ Using JavaScript, Leaflet.js, and geoJSON data, major earthquake data was added 
 1. The major earthquake data is added as a third layer group:
 2. The major earthquake data is added to the overlay object:
 3. The ```d3.json()``` callback is working and does the following:
-  - Sets the color and diameter of each earthquake.
-  - The major earthquake data is passed to the ```geoJSON()``` layer. 
-  - The geoJSON() layer creates a circle for each major earthquake, and adds a popup for each circle to display the magnitude and location of the earthquake.
-  - The major earthquake layer group variable is added to the map.
+   - Sets the color and diameter of each earthquake.
+   - The major earthquake data is passed to the ```geoJSON()``` layer. 
+   - The geoJSON() layer creates a circle for each major earthquake, and adds a popup for each circle to display the magnitude and location of the earthquake.
+   - The major earthquake layer group variable is added to the map.
 4. All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off:
 
 ### Deliverable 3: Add an Additional Map 
