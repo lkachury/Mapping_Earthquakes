@@ -17,11 +17,6 @@ An earthquake map was previously created with two different maps and the earthqu
 - D3 (Data Driven Document) Javascript library
 
 ## Results
-For Reference: 
-- The complete [index.html]() file used to build the webpage
-- The complete [charts.js]() file used to build the graphs in the webpage
-- The complete [style.css]() file used to style the webpage
-
 ### Deliverable 1: Add Tectonic Plate Data
 Using JavaScript, Leaflet.js, and geoJSON data, tectonic plate data was added using ```d3.json()```, added the data using the ```geoJSON()``` layer, set the tectonic plate ```LineString``` data to stand out on the map, and added the tectonic plate data to the overlay object with the earthquake data.
 
