@@ -59,8 +59,8 @@ Using JavaScript, Leaflet.js, and geoJSON data, major earthquake data was added 
 ### Deliverable 3: Add an Additional Map 
 Using JavaScript and Leaflet.js, a third map style was added to the earthquake map.
 
-1. A third map tile layer is created:
-2. The third map is added to the overlay object:
-3. All the earthquake data and tectonic plate data are displayed on the all maps of the webpage:
+1. A third map tile layer is created: <br /> ![image](https://user-images.githubusercontent.com/108038989/193417672-1682c3ef-a60d-4d08-9ad3-29d11c75ba2c.png)
+2. The third map is added to the overlay object: <br /> ![image](https://user-images.githubusercontent.com/108038989/193417699-8890fc20-128d-4fff-a362-20633f10f3c8.png)
+3. All the earthquake data and tectonic plate data are displayed on the all maps of the webpage: <br /> ![image](https://user-images.githubusercontent.com/108038989/193417638-6cd2cba1-1867-4587-af17-e8b0082cd817.png)
 
 ## Summary
