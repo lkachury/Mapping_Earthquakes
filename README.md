@@ -24,15 +24,19 @@ For Reference:
 Using JavaScript, Leaflet.js, and geoJSON data, tectonic plate data was added using ```d3.json()```, added the data using the ```geoJSON()``` layer, set the tectonic plate ```LineString``` data to stand out on the map, and added the tectonic plate data to the overlay object with the earthquake data.
 
 1. The tectonic plate data is added as a second layer group:
-<br /> 
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193414721-e6d5b86c-ef8d-49b8-a4e0-af682b48f39a.png)
 
 2. The tectonic plate data is added to the overlay object: 
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193414746-182f986b-6b5a-402d-b5ac-21bebe10d8c7.png)
+
 3. The ```d3.json()``` callback is working and does the following: 
     - The tectonic plate data is passed to the ```geoJSON()``` layer
     - The ```geoJSON()``` layer adds color and width to the tectonic plate lines
     - The tectonic layer group variable is added to the map
-4. The earthquake data and tectonic plate data displayed on the map when the page loads:
+    <br /> ![image](https://user-images.githubusercontent.com/108038989/193414800-5be13f8f-114e-49ec-b127-9f546eb9e1dc.png)
 
+4. The earthquake data and tectonic plate data displayed on the map when the page loads:
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193414686-4371dab8-b6f2-460c-a6c0-399646c2ff79.png)
 
 ### Deliverable 2: Add Major Earthquake Data
 Using JavaScript, Leaflet.js, and geoJSON data, major earthquake data was added to the map using ```d3.json()```. Color was added and the radius of the circle markers were set based on the magnitude of earthquake, and a popup marker for each earthquake was added that displays the magnitude and location of the earthquake using the GeoJSON layer, ```geoJSON()```.
