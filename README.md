@@ -64,3 +64,4 @@ Using JavaScript and Leaflet.js, a third map style was added to the earthquake m
 3. All the earthquake data and tectonic plate data are displayed on the all maps of the webpage: <br /> ![image](https://user-images.githubusercontent.com/108038989/193417638-6cd2cba1-1867-4587-af17-e8b0082cd817.png)
 
 ## Summary
+An earthquake map was created with three different maps (Streets, Satellite, Dark) and three different earthquake overlays (Earthquakes, Tectonic Plates, and Major Earthquakes). 
