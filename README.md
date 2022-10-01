@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
 ## Overview 
-An earthquake map was previously created with two different maps and the earthquake overlay. The purpose of this analysis is to now see the earthquake data in relation to the tectonic plates’ location on the earth, see all the earthquakes with a magnitude greater than 4.5 on the map, and see the data on a third map.
+An earthquake map was previously created with two different maps and the earthquake overlay. The purpose of this analysis is to now add a third map and two more earthquake overlays: earthquake data in relation to the tectonic plates’ location on the earth and all the earthquakes with a magnitude greater than 4.5 on the map.
 
 ## Resources
 ### Data Source 
