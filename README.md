@@ -5,7 +5,9 @@ An earthquake map was previously created with two different maps and the earthqu
 
 ## Resources
 ### Data Source 
-- 
+- Earthquakes [GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) 
+- Earthquakes >4.5 mag [GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson)
+- Tectonic Plate [GeoJSON](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
 
 ### Software
 - Visual Studio Code 1.69
